@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/alestor123/NPM-DISCORD-BOT/issues"
   },
-  "homepage": "https://github.com/alestor123/NPM-DISCORD-BOT#readme"
+  "homepage": "https://github.com/alestor123/NPM-DISCORD-BOT#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1"
+  }
 }

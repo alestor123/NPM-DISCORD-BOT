@@ -1,0 +1,19 @@
+{
+  "name": "npm-discord-bot",
+  "version": "1.0.0",
+  "description": "This is a simple code for checking whether npm name is avail or not",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/NPM-DISCORD-BOT.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/NPM-DISCORD-BOT/issues"
+  },
+  "homepage": "https://github.com/alestor123/NPM-DISCORD-BOT#readme"
+}
